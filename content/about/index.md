@@ -27,3 +27,7 @@ If you have any further enquiries about my academic or work-based achievements, 
 TryHackMe is an ethical hacking learning platform, in which I have reached level 11.
 
 <script src="https://tryhackme.com/badge/203421"></script>
+
+## My Professional Resume
+
+You can **download a copy of my CV** [here](https://github.com/arshjamadar/arshjamadar.github.io/tree/main/content/about) for a detailed overview of my qualifications and experiences.
