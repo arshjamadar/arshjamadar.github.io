@@ -30,4 +30,4 @@ TryHackMe is an ethical hacking learning platform, in which I have reached level
 
 ## My Professional Resume
 
-You can **download a copy of my CV** [here](https://github.com/arshjamadar/arshjamadar.github.io/tree/main/content/about) for a detailed overview of my qualifications and experiences.
+You can **download a copy of my CV** [here](https://github.com/arshjamadar/arshjamadar.github.io/tree/main/content/about/Arsh_CV.pdf) for a detailed overview of my qualifications and experiences.
